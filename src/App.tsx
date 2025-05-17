@@ -177,7 +177,7 @@ function App() {
                   <div className="bg-gray-800 rounded-lg p-6 transform hover:scale-105 transition-all duration-300 hover:shadow-2xl hover:shadow-blue-500/20 h-60 flex flex-col justify-between">
                     <div>
                       <h3 className="text-xl font-bold mb-2 text-blue-400 truncate">{blog.title}</h3>
-                      <p className="text-sm text-gray-400 mb-3">{blog.date}</p>
+                      {/* <p className="text-sm text-gray-400 mb-3">{blog.date}</p> */}
                       <p className="text-gray-300 mb-4 overflow-hidden">{blog.preview}</p>
                     </div>
                     <a href={blog.link} className="text-teal-400 hover:text-teal-300 flex items-center group">
