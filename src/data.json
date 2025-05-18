@@ -1,0 +1,105 @@
+{
+  "projects": [
+    {
+      "title": "Zyra App",
+      "description": "Fasion Ecommerce React Native application using Expo Framework",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "link": "https://github.com/deep1910/ZyraApp"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Single Entry vs Double Entry Accounting: Key Differences Explained",
+      "link": "https://drive.google.com/file/d/12s-6fhQogue31ORI8eDEvRS_sNgyU2nH/view?usp=sharing",
+      "content": "As a founder, you probably didn't start your business dreaming about bookkeeping.But as your revenue grows, so does the need to track it properly.Soon enough, you will find yourself asking if you're using the right accounting system to support your growth. So, how do you decide that? Let's start with the basics. There are two primary ways to manage business finances: 1. Single-entry (simple, quick, good for early-stage) 2. Double-entry (detailed, reliable, built for scale)",
+      "category": "finance"
+    },
+    {
+      "title": "Revenue Recognition Made Simple: Deferred vs. Unbilled Revenue",
+      "link": "https://drive.google.com/file/d/10FdsVPw8FpUM54BoZUvgIlwJ3dBaoid_/view?usp=sharing",
+      "content": "Revenue numbers don't always tell the full story of your company's financial health. Companies may misrepresent their financials by recording revenue at the wrong time. If your company recognises revenue too early, it inflates the performance, while recording revenue late hides the real growth. That's where revenue recognition plays an important role. Revenue recognition makes sure revenue is recorded in the right period by matching the revenue with the period in which it's generated.",
+      "category": "finance"
+    },
+    {
+      "title": "How to generate documents from the Oracle database",
+      "link": "https://drive.google.com/file/d/1SPjHr7IGYDOeYtszum1V5nZfWDVM01sc/view?usp=sharing",
+      "content": "Oracle is one of the leading database management systems, having a 40% market share. And, nearly 70-80% of organizations generate documents from databases for operation purposes.Despite having such a huge presence in the enterprise market, document generation from the Oracle database is challenging.The reason? - it's manual document processing!",
+      "category": "tech"
+    },
+    {
+      "title": "How to Choose the Best Recurring Revenue Model for SaaS",
+      "link": "https://drive.google.com/file/d/1q0GzCHvrZTXAXKfPOlgigr6VrL9DB_60/view?usp=sharing",
+      "content": "SaaS companies experience a staggering 15% decrease in user churn rate when users choose monthly instead of one-time purchases. It's simple. Recurring revenue reduces user risk with simple commitments and offers flexibility, control of spending, and regular engagement for long-term loyalty. Each billing cycle acts as a small nudge, reminding them to use the product and integrate it into their routines.",
+      "category": "finance"
+    },
+    {
+      "title": "Deep dive in analysis of linear regression",
+      "link": "https://dpblog.hashnode.dev/linear-regression",
+      "content": "Linear regression is a statistical technique that models the relationship between a continuous dependent variable and one or more independent variables. It fits a linear equation to observed data using the method of least squares. Linear regression makes predictions by finding the line that minimizes the sum of the squares of the vertical distances between the observed responses in the dataset and the responses predicted by the linear approximation.",
+      "category": "tech"
+    },
+    {
+      "title": "Get Started with Bash Scripting",
+      "link": "https://deeppande.hashnode.dev/get-started-with-bash-scripting",
+      "content": "A Bash script is a plain text file which contains a series of commands. These commands are a mixture of commands we would normally type ourselves on the command line .These scripts can be used to automate the repeatable tasks by generating the script files which contains commands in sequence of execution.",
+      "category": "tech"
+    },
+    {
+      "title": "Brief About Babel -the compiler",
+      "link": "https://dpblog.hashnode.dev/brief-about-babel-the-compiler",
+      "content": "Babel is a popular open-source tool that allows developers to write modern JavaScript code and have it automatically transpiled to older versions of JavaScript that are more widely supported by browsers. It enables developers to use new and exciting features in their code without worrying about browser compatibility issues.",
+      "category": "tech"
+    },
+    {
+      "title": "Explore the Discord API",
+      "link": "https://dpblog.hashnode.dev/explore-the-discord-api",
+      "content": "Discord is a popular chat and voice communication platform used by millions of people around the world. It offers many features that make it a popular choice for gaming communities, businesses and social groups. One of the reasons for its popularity is its open API, which allows developers to create bots, integrations, and applications that interact with the Discord platform.",
+      "category": "tech"
+    },
+    {
+      "title": "State and Local Tax 101: What Every U.S. Business Should Know",
+      "link": "https://drive.google.com/file/d/17gtkuN7teGXHTtMty9J7a0f2FwR7nRz-/view?usp=sharing",
+      "content": "Imagine selling your awesome product across the US, and one fine day, you're heavily fined because you missed a complex state tax rule. You definitely don't want that! To avoid that, you need to learn about state and local taxes in the US. State and local taxes are like a maze; every state, county, and city plays by its own rules, and one wrong move can cost a lot. State and local tax compliance is your secret map to navigate it all smoothly.",
+      "category": "finance"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Technical Content Writer",
+      "company": "GTMDialogues",
+      "period": "Feb 2025 – Present",
+      "location": "Remote",
+      "description": [
+        "Research, write, and publish high-quality technical articles tailored for B2B SaaS clients, ensuring clarity and value for decision-makers.",
+        "Optimize content for SEO to improve visibility, increase organic reach, and engage technical communities through targeted distribution."
+      ]
+    },
+    {
+      "title": "Automation Test Intern",
+      "company": "Unboxing Community",
+      "period": "Sept 2024 – Dec 2024",
+      "location": "Remote",
+      "description": [
+        "Automated product data extraction from multiple e-commerce platforms using Selenium and BeautifulSoup, improving data acquisition efficiency.",
+        "Performed comprehensive data cleaning, transformation, and integration to prepare datasets for machine learning model development."
+      ]
+    },
+    {
+      "title": "Python Developer Intern",
+      "company": "Callisto IT Solutions",
+      "period": "June 2024 – Aug 2024",
+      "location": "Nagpur, Maharashtra",
+      "description": [
+        "Developed a scalable web scraping tool using Selenium to collect and structure business data from Google Maps.",
+        "Built the backend for an Automatic WhatsApp Messaging System, achieving a 20% improvement in execution speed by streamlining data input from Excel.",
+        "Designed and implemented a Hospital Management System using Tkinter, Python, and SQLite, improving patient data retrieval and billing workflows by 10%."
+      ]
+    }
+  ],
+  "skills": {
+    "Programming Languages": ["Python", "JavaScript", "SQL", "Linux"],
+    "Frameworks & Tools": ["React", "Flask", "FastAPI", "Selenium", "Git", "REST API", "MongoDB", "PostgreSQL"],
+    "Data Analysis": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib"],
+    "Machine Learning": ["Preprocessing", "Feature Engineering", "Supervised Learning"]
+  }
+} 
