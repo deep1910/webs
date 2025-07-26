@@ -228,7 +228,7 @@ function App() {
             <div className="flex items-center">
               <BookOpen className="mr-4 text-blue-300" />
               <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 to-teal-300">
-                Blogs
+                Articles
               </h2>
             </div>
             <div className="flex space-x-0">
